@@ -1,5 +1,5 @@
-
 #IoT solutions architect
+
 
 
 **I. Learning about Connectivity Models**
@@ -24,4 +24,16 @@ Learn about the various protocols available for IoT standardized
 | --- | --- | --- |
 | 1 | An introduction to the various protocols used in IoT | [http://www.postscapes.com/internet-of-things-protocols/](http://www.postscapes.com/internet-of-things-protocols/) |
 | 2 | Additional resource which outlines the IoT standards as defined by IEEE – **Not that useful** | [http://standards.ieee.org/innovate/iot/stds.html](http://standards.ieee.org/innovate/iot/stds.html) |
+
+
+
+IoT Value Chain, Ecosystem and Key Stakeholders in an IoT solution
+
+**Pro-tip:** The wise don&#39;t try to re-invent the wheel (except for learning purposes) again &amp; do everything from scratch.
+
+It is wise to harness the existing energy to create the new spell that you desire
+
+| S.No | Topic | Link |
+| --- | --- | --- |
+| 1 | Understand the various stakeholders in an IoT solution | [http://www.telecomcircle.com/2016/05/internet-of-things-business-models/](http://www.telecomcircle.com/2016/05/internet-of-things-business-models/) |
 
