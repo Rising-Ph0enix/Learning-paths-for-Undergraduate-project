@@ -1,3 +1,5 @@
+
+
 #IoT solutions architect
 
 
@@ -43,5 +45,24 @@ It is wise to harness the existing energy to create the new spell that you desir
 | --- | --- | --- |
 | 1 | Understand the various stakeholders in an IoT solution | [http://www.telecomcircle.com/2016/05/internet-of-things-business-models/](http://www.telecomcircle.com/2016/05/internet-of-things-business-models/) |
 
+
+
 Note: Google IoT online courses e.g. Coursera - &gt; search -&gt; IoT
+
+IV. IoT Platforms
+
+| S.No. | Topic | Link |
+| --- | --- | --- |
+| 1 | Detailed document explaining about IoT platforms... Building my own platform is not feasible at the curent stage. Major companies are trying to become IoT Platform providers – by using API management – IoT is many technologies. The platform integrates the technologies..sort of like glue which is critical here. | [http://iot-analytics.com/wp/wp-content/uploads/2016/01/White-paper-IoT-platforms-The-central-backbone-for-the-Internet-of-Things-Nov-2015-vfi5.pdf](http://iot-analytics.com/wp/wp-content/uploads/2016/01/White-paper-IoT-platforms-The-central-backbone-for-the-Internet-of-Things-Nov-2015-vfi5.pdf) |
+
+
+
+V. IoT Architecture
+
+
+
+| S.No. | Topic | Link |
+| --- | --- | --- |
+| 1 | Series of articles to learn IoT architectute | [https://www.linkedin.com/pulse/simple-steps-learn-iot-architecture-brucelin-kithion](https://www.linkedin.com/pulse/simple-steps-learn-iot-architecture-brucelin-kithion) |
+|   | Thingworx important |   |
 
