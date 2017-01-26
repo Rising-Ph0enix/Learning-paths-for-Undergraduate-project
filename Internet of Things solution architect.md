@@ -3,9 +3,9 @@
 
 **I. Learning about Connectivity Models**
 
-Pro-Tip: You can use your strategy – 1. Research 2. List all possible solutions 3. Assign priority for each solution based on the &#39;fit&#39; (how well it matches requirements) 4. Choose the solution ith the highest priority
+**Pro-Tip:** You can use your strategy – 1. Research 2. List all possible solutions 3. Assign priority for each solution based on the &#39;fit&#39; (how well it matches requirements) 4. Choose the solution ith the highest priority
 
-Learn about the various connectivity models
+*Learn about the various connectivity models*
 
 
 
@@ -15,9 +15,9 @@ Learn about the various connectivity models
 
 
 
-IoT Standards
+**IoT Standards**
 
-Learn about the various protocols available for IoT standardized
+*Learn about the various protocols available for IoT standardized*
 
 | S. No. | Topic | Link |
 | --- | --- | --- |
