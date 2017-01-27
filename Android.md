@@ -1,10 +1,7 @@
 #Android Developer Learning Path
 
 
-**Introduction – The basics and your 1**
-
-# st
- **app**
+**Introduction – The basics and your 1st app**
 
 [**https://developer.android.com/training/basics/firstapp/index.html**](https://developer.android.com/training/basics/firstapp/index.html)
 
