@@ -16,4 +16,4 @@
 | --- | --- | --- | --- |
 | 1 | Android Basics Nanodegree | [https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) |   |
 | 2 | Android Developer Nanodegree | [https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) |   |
-| 3 | Android View Cheatsheet | [View Cheat sheet- getting past errors in android course] | (https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view |
+| 3 | Android View Cheatsheet | (https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view |
