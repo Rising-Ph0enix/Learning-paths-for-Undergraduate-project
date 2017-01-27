@@ -1,5 +1,6 @@
 #Android Developer Learning Path
 
+**Note**: Add google's android dev training as well.
 
 **Introduction – The basics and your 1st app**
 
