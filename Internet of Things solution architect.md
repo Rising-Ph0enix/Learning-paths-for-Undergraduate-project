@@ -3,6 +3,8 @@
 #IoT solutions architect
 
 
+**ONE STOP RESOURCE: http://www.postscapes.com/internet-of-things-technologies/**
+
 
 **I. Learning about Connectivity Models**
 
