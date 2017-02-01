@@ -11,3 +11,5 @@ https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Go
 https://inthecheesefactory.com/blog/how-to-install-google-services-on-genymotion/en
 
 http://blog.teamtreehouse.com/beginners-guide-location-android
+
+https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-Play-support
