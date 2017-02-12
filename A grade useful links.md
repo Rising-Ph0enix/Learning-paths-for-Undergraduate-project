@@ -1,3 +1,6 @@
+# START BUILDING YOUR PROJECT DOCUMENTATION AS SOON AS POSSIBLE
+http://www.slideshare.net/ashutoshupadhayay/vehicle-tracking-using-gpsreport-1
+
 1. ETM manufacturers
 https://en.wikipedia.org/wiki/Ticket_machine
 http://softlandindia.co.in/bus-ticketing.php
