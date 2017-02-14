@@ -19,3 +19,6 @@ State my requirements - do you think that theses requirements can be balanced -w
 1. Get GPS info every 10 secs
 2. Send the GPS info to server as soon as received. If the GSM/GPRS network is not available, then store the data in memory - accumulate it. (Bad situation) When the GSM network becomes available again, send the accumulated data to the server.
 3. 
+
+
+3. GPS receiver on top of the bus or if connected to battery - will the GPS be able to receive signals/?
