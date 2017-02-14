@@ -26,3 +26,8 @@ https://www.cooking-hacks.com/documentation/tutorials/geolocation-tracker-gprs-g
 
 IMAGE which explains GPS info :
 https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif
+
+
+USE THIS: (word doc)
+for ... activiating the gps - when deploying 
+Tips For Getting Good GPS Signals
