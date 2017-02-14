@@ -22,3 +22,5 @@ State my requirements - do you think that theses requirements can be balanced -w
 
 
 3. GPS receiver on top of the bus or if connected to battery - will the GPS be able to receive signals/?
+
+(Depending on the above question decide whether battery powwered or vehicle powered...)
