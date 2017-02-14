@@ -24,3 +24,8 @@ State my requirements - do you think that theses requirements can be balanced -w
 (Depending on the above question decide whether battery powwered or vehicle powered...)
 
 i.e. WHERE to install the gps?
+
+
+4. Once I've chosen where to install the GPS - what about the Bluetooth Low Energy the ETM should be able to send the data via Bluetooth 4.2 to the on-board computer with Bluetooth 4.2 interface shield. 
+
+Question is: If On-board computer is installed on top of the bus or under the bus, or near wheel wall, can the signal from the bluetooth 4.2 reach the on-board computer?
