@@ -23,3 +23,6 @@ http://duinopeak.com/wiki/index.php?title=SIM808_GPRS/GSM%2BGPS%2BBluetooth_Shie
 https://wiki.eprolabs.com/index.php?title=SIM_808_GSM_GPRS_Module
 https://www.cooking-hacks.com/projects/arduino-realtime-gps-gprs-vehicle-tracking
 https://www.cooking-hacks.com/documentation/tutorials/geolocation-tracker-gprs-gps-geoposition-sim908-arduino-raspberry-pi/
+
+IMAGE which explains GPS info :
+https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif
