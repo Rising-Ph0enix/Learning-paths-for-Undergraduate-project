@@ -48,7 +48,7 @@ Note: If you keep it in a steel box, problems
 
 
 BLE is good for short range wireless communication.
-But, GPS vs RFID for tracking??
+
 
 
 
