@@ -31,3 +31,6 @@ https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif
 USE THIS: (word doc)
 for ... activiating the gps - when deploying 
 Tips For Getting Good GPS Signals
+
+DEPLOYING GPS:
+https://www.gpswox.com/en/how-to-install-a-gps-vehicle-tracking-system
