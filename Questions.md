@@ -31,3 +31,5 @@ i.e. WHERE to install the gps?
 Question is: If On-board computer is installed on top of the bus or under the bus, or near wheel wall, can the signal from the bluetooth 4.2 reach the on-board computer?
 
 Since, wi-fi & bluetooth 4.2 use the same frequency fo rtransmission - If someone is using wi-fi on their phone will those signals interfere with my bluetooth signal?
+
+(Idea is for bluetooth - to be placed on the center of the bus - reduces the max distance - on the top of the bus - solves the gps problem - on separate battery supply - solves prob...)
