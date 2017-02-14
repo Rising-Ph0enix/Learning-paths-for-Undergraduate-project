@@ -33,3 +33,5 @@ Question is: If On-board computer is installed on top of the bus or under the bu
 Since, wi-fi & bluetooth 4.2 use the same frequency fo rtransmission - If someone is using wi-fi on their phone will those signals interfere with my bluetooth signal?
 
 (Idea is for bluetooth - to be placed on the center of the bus - reduces the max distance - on the top of the bus - solves the gps problem - on separate battery supply - solves prob...)
+
+TEST TOMORROW WITH 2 PHONES - on on top of bus centre of roof & other inside the bus - whether you can send the bluetooth signal or not?
