@@ -37,6 +37,18 @@ ii) Need advanced more powerful dynamic spell for those who have internet connec
 
 
 
+**GPS tracker**
+
+Note: If you keep it in a steel box, problems
+
+**WBS**
+0) Where to place the GPS? On top? Under bus? ??
+1) Battery powered GPS -> Vehicle powered GPS
+
+
+
+BLE is good for short range wireless communication.
+But, GPS vs RFID for tracking??
 
 
 
