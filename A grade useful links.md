@@ -37,3 +37,8 @@ Tips For Getting Good GPS Signals
 
 DEPLOYING GPS:
 https://www.gpswox.com/en/how-to-install-a-gps-vehicle-tracking-system
+
+CLOUD SERVER DECISION:
+
+http://www.survivingwithandroid.com/2015/12/comparing-iot-platforms.html
+https://developers.google.com/cloud-messaging/
