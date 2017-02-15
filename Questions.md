@@ -35,3 +35,11 @@ Since, wi-fi & bluetooth 4.2 use the same frequency fo rtransmission - If someon
 (Idea is for bluetooth - to be placed on the center of the bus - reduces the max distance - on the top of the bus - solves the gps problem - on separate battery supply - solves prob...)
 
 TEST TOMORROW WITH 2 PHONES - on on top of bus centre of roof & other inside the bus - whether you can send the bluetooth signal or not?
+
+Connectivity protocols:
+5.
+Lots of protocols...
+
+Some modern protocols - but tutorials will be limited. Keeping the time constraintin mind - maybe stick with basic Web API or so?
+
+So...REST - I'll get some hellp with?
