@@ -42,3 +42,21 @@ CLOUD SERVER DECISION:
 
 http://www.survivingwithandroid.com/2015/12/comparing-iot-platforms.html
 https://developers.google.com/cloud-messaging/
+
+CLOUD:
+
+Learning Node.js
+
+https://leanpub.com/hands-on-nodejs
+
+https://leanpub.com/nodebeginner
+
+https://nodeschool.io/
+
+https://www.tutorialspoint.com/nodejs/
+
+https://www.codeschool.com/courses/real-time-web-with-node-js
+
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+
+
