@@ -1,4 +1,10 @@
 # Do Now
+https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/
+
+learn javascript - client side
++ read your books - javascript the good parts
+learn node.js by reading 2 tutorials
+
 
 1) Create account on :
 https://www.ctl.io/appfog/
