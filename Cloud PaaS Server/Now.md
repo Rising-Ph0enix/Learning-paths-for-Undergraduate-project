@@ -1,9 +1,11 @@
 # Do Now
 https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/
 
-learn javascript - client side
-+ read your books - javascript the good parts
-learn node.js by reading 2 tutorials
+1) learn javascript - client side on free code camp
+2) + read your books - javascript the good parts
+3) learn node.js by reading 2 tutorials
+4) Read node.js the beginner's book
+5) Download & get everything ready - https://github.com/g0g0lganesh/Learning-paths-for-Undergraduate-project/blob/master/Cloud%20PaaS%20Server/Learn%20JS%20%26%20node.js
 
 
 1) Create account on :
