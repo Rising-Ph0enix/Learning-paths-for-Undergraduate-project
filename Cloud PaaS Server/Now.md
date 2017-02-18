@@ -1,4 +1,17 @@
 # Do Now
+
+https://www.freecodecamp.com/challenges/local-scope-and-functions
+https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
+http://www.nodebeginner.org/#javascript-and-nodejs
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+https://12factor.net/
+https://www.quora.com/What-are-good-coding-habits-that-have-worked-for-you
+
+
+
+
 https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/
 
 1) learn javascript - client side on free code camp
