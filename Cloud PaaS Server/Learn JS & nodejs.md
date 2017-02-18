@@ -1,3 +1,5 @@
+Resources: http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+
 1) Basics
 
 http://www.nodebeginner.org/#intended-audience
