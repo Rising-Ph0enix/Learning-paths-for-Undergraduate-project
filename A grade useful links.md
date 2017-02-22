@@ -1,3 +1,17 @@
+NODE:
+
+http://www.acfo.org/uploads/minutes/73597218ca257c8e5e45ab51a68f2721.pdf
+
+http://pdf.th7.cn/down/files/1411/Node%20Cookbook,%202nd%20Edition.pdf
+
+http://pdf.th7.cn/down/files/1508/Node.js%20Recipes.pdf
+
+https://udemycoupon.org/coupon/node-js-essentials-api-frameworks-express-koa-sails/
+
+https://udemycoupon.org/coupon/node-js-codeless-api-creation-running-swagger/
+
+https://udemycoupon.org/coupon/master-mean-stack-learn-example/
+
 # START BUILDING YOUR PROJECT DOCUMENTATION AS SOON AS POSSIBLE
 ### Very useful links for gps tracker
 http://www.instructables.com/howto/LoRa%20GPS%20Tracker/
