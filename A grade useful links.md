@@ -1,6 +1,11 @@
 This is where its happening at:
 http://softwareengineering.stackexchange.com/questions/61726/define-production-ready
 http://javarevisited.blogspot.in/2011/09/how-to-write-production-quality-code.html
+
+Learn to make Infographics:
+
+https://adioma.com/?ref=fnf
+
 + google & find quora answer !!!!!!! My dream ...
 
 2. Make a tutorial of your final year project - get started on IEEE paper ...
