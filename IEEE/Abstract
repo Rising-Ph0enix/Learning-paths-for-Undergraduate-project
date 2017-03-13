@@ -1,0 +1,75 @@
+1. https://users.ece.cmu.edu/~koopman/essays/abstract.html
+
+2. https://urc.ucdavis.edu/conference/write.html
+
+NOTE: Use Tamil Nadu in all areas & then specify in the end that can be alpplied for other staes in India & other countries 
+with similar infrastrucutre is available.
+
+## Motivation: and ##What problem are you trying to solve? What is the scope of your work 
+(a generalized approach, or for a specific situation)? Be careful not to use too much jargon
+
+Why do we care about the problem and the results?
+
+Public transport plays a major (key) role in transporting the civilian population around the city/town & is essential in 
+meeting the transportation needs of the people in the cities/towns.
+
+Using public transport helps reduce traffic congestion & 
+
+Some of the major obstacles/challenges preventing passengers from choosing public transport are :
+
+i. Overcrowding of buses
+
+In India, most (statistc %) occur due to footboarding where the root problem is overcrowding. 
+Female & senior passengers find it difficult to travel in such conditions.
+
+
+
+ii. Waiting for buses & uncertainty in arrival time of buses.
+
+Passengers spend 1/3 of their commute time searching & waiting for the right bus. Lack of proper information among passenger community. 
+So far only by word of mouth.
+
+Approach:
+How did you go about solving or making progress on the problem? 
+## In countries like India, these problems are even more pronounced (serious) . And  There are unique challenges to be addressed.
+ My approach:
+ 
+ Our paper proposes a unique solution that applies for Indian subcontinent and countries with a similar structure.
+Unique challenge is that buses in India are extra overcrowded. So alternate solutions for 
+crowd based route recommendation - like camera, IR lasers at entrances (2), otehr sensors are not suitable for our country.
+So make use of the existence of the conductor & ETM ... :
+ 
+ Overcrowding: == ETM based on the tickets sold. Here ETM is the 'thing' equipped with GPS & transmits via GSM/GPRS.
+ 
+ Uncertainty - provide a schedule in the form of an app 
+ 
+ Enable real time location information/ tracking of the bus via the app.
+
+What was the extent of your work (did you look at one application program or a hundred programs in twenty different programming languages?)
+
+Scope/ Extent of my work is for
+
+i. TNSTC (soon to be activated ETMS)
+ii. Android phones
+
+Results:
+What's the answer?
+
+The uncertainty in arrival of the bus can be tackled by the GPS based tracking of the ETM - so that problem is solved.
+
+The overcrowding issue can be solved based on the server side api which the ETM communicates with .
+
+Conclusions:
+What are the implications of your answer
+
+More useful information is provided to the passenger.
+
+Enabling my target audience (women, senior passengers, foreigners) to make more informed decisions. 
+
+Empowering them with information to take informed decisions! 
+
+Less over crowding -> Less accidents
+
+Better services -> Makes Public transport more friendly to passengers & reduces traffic congestion.
+
+
