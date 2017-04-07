@@ -4,8 +4,4 @@
 
 2. Best Outgoing Student - prepare pakka - & even the plan to get sign 
 
-3) Project report - Prepare it & go over it one final time - then take print out ...
-
-4) Buy Project CD & prepare the information needed to write on it ready.
-
-5) Project - finish UI + Add template Login page + push that to heroku...
+3) Project - finish UI + Add template Login page + push that to heroku...
